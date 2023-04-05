@@ -31,7 +31,7 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por te
 <ul>
 <li>Desde os 12 anos sempre gostei de desmontar e montar computadores e jogar video game. </li>
 <li>Acabei realizando o curso de Direito e me formando por incentivo dos meus pais, mas nunca gostei dessa área.</li>
-<li>Sou músico nas horas vagas, toco instrumentos como o violão e arrisco tocar viola. </li>
+<li>Sou músico nas horas vagas, tenho habilidades com o violão e arrisco tocar viola. </li>
 </ul>
 </br></div>
 

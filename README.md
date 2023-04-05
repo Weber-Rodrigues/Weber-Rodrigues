@@ -14,7 +14,7 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por te
 </br>
 </div>
 
-![Weber GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Weber-Rodrigues&show_icons=true&theme=dark)
+![Weber GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Weber-Rodrigues&show_icons=true&theme=onedark)
 
 <h2>Tecnologias estudadas</h2>
 

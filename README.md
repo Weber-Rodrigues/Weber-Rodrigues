@@ -35,4 +35,4 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por te
 </ul>
 </br></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weber-Rodrigues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Weber-Rodrigues)](https://github.com/anuraghazra/github-readme-stats)

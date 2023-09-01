@@ -7,16 +7,14 @@
 </div>
 
 <div>
-<h2>Sobre mim</h2>
-<p>
-Olá, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e com 27 anos de idade. Atualmente, estou realizando o curso de Desenvolvimento de Software oferecido pela Cubos Academy, onde estou aprendendo habilidades essenciais para o sucesso na área de TI.
-</p>
+<h1>Sobre mim</h1>
+<p>Olá, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e com 27 anos de idade. Atualmente, estou realizando o curso de Desenvolvimento de Software oferecido pela Cubos Academy, onde estou aprendendo habilidades essenciais para o sucesso na área de TI./p>
 </br>
 </div>
 
 ![Weber GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Weber-Rodrigues&show_icons=true&theme=onedark)
 
-<h2>Tecnologias e Ferramentas estudadas</h2>
+<h1>Tecnologias e Ferramentas estudadas</h1>
 
 <div style="display: inline_block"><br/>
 <img aling=center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

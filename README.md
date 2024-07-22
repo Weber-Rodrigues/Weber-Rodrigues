@@ -8,7 +8,7 @@
 
 <div>
 <h1>Sobre mim</h1>
-<p>Olá, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e com 27 anos de idade. Atualmente, estou realizando o curso de Desenvolvimento de Software oferecido pela Cubos Academy, onde estou aprendendo habilidades essenciais para o sucesso na área de TI.</p>
+<p>Olá, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e com 28 anos de idade. Possuo curso de Desenvolvimento de Software FullStack realizado na Cubos Academy .</p>
 </br>
 </div>
 
